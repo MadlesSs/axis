@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/axis.github.io/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/axis.github.io/static/js/main.1fc31fe9.chunk.js",
-    "main.js.map": "/axis.github.io/static/js/main.1fc31fe9.chunk.js.map",
+    "main.css": "/axis.github.io/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/axis.github.io/static/js/main.d79a4524.chunk.js",
+    "main.js.map": "/axis.github.io/static/js/main.d79a4524.chunk.js.map",
     "runtime-main.js": "/axis.github.io/static/js/runtime-main.1ed7db5f.js",
     "runtime-main.js.map": "/axis.github.io/static/js/runtime-main.1ed7db5f.js.map",
     "static/css/2.95456d05.chunk.css": "/axis.github.io/static/css/2.95456d05.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d6ed987d.chunk.js.map": "/axis.github.io/static/js/3.d6ed987d.chunk.js.map",
     "index.html": "/axis.github.io/index.html",
     "static/css/2.95456d05.chunk.css.map": "/axis.github.io/static/css/2.95456d05.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/axis.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/axis.github.io/static/css/main.7d180cbf.chunk.css.map",
     "static/js/2.0e56a1fd.chunk.js.LICENSE.txt": "/axis.github.io/static/js/2.0e56a1fd.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/axis.github.io/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.1ed7db5f.js",
     "static/css/2.95456d05.chunk.css",
     "static/js/2.0e56a1fd.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1fc31fe9.chunk.js"
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.d79a4524.chunk.js"
   ]
 }
