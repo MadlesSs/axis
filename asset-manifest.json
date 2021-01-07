@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/axis.github.io/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/axis.github.io/static/js/main.f91e9738.chunk.js",
-    "main.js.map": "/axis.github.io/static/js/main.f91e9738.chunk.js.map",
+    "main.js": "/axis.github.io/static/js/main.b83c19f5.chunk.js",
+    "main.js.map": "/axis.github.io/static/js/main.b83c19f5.chunk.js.map",
     "runtime-main.js": "/axis.github.io/static/js/runtime-main.869a013b.js",
     "runtime-main.js.map": "/axis.github.io/static/js/runtime-main.869a013b.js.map",
     "static/css/2.95456d05.chunk.css": "/axis.github.io/static/css/2.95456d05.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.95456d05.chunk.css",
     "static/js/2.cb68cb1a.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.f91e9738.chunk.js"
+    "static/js/main.b83c19f5.chunk.js"
   ]
 }
