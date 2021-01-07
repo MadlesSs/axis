@@ -10,7 +10,7 @@ function App() {
 
     <div className="App">
       <header className="App-header">
-        <h1>When did you give your wind to AXIS?</h1>
+        <h1>When did you give your wing to AXIS?</h1>
         <MyDatePicker sendDateToParent={date => setStartDate(date)} />
         {startDate ? <div><p>{'I\'ts been neverending ' + Math.round(Math.abs((startDate - new Date()) / oneDay)) + ' days 😢'}</p>
           <p>Don't worry, cheer yourself up by watching this video!</p>
