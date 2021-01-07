@@ -1,7 +1,7 @@
 import React from "react";
-import logo from './logo.svg';
 import './App.css';
 import { MyDatePicker } from './components/DatePicker';
+import ReactPlayer from "react-player"
 
 function App() {
   const [startDate, setStartDate] = React.useState(null);
@@ -10,10 +10,13 @@ function App() {
 
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>When did you give your wing to AXIS?</h1>
+        <h1>When did you give your wind to AXIS?</h1>
         <MyDatePicker sendDateToParent={date => setStartDate(date)} />
-        <p>{startDate ? 'I\'ts been neverending ' + Math.round(Math.abs((startDate - new Date()) / oneDay)) + ' days' : null}</p>
+        {startDate ? <div><p>{'I\'ts been neverending ' + Math.round(Math.abs((startDate - new Date()) / oneDay)) + ' days 😢'}</p>
+          <p>Don't worry, cheer yourself up by watching this video!</p>
+          <ReactPlayer url="https://www.youtube.com/watch?v=m5ymyla1LD0" />
+        </div>
+          : null}
       </header>
     </div>
   );
