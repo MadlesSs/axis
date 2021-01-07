@@ -15,6 +15,6 @@ export const MyDatePicker = ({ sendDateToParent }) => {
     }
 
     return (
-        <DatePicker selected={startDate} onChange={date => test(date)} placeholderText='Choose date' maxDate={new Date()} dateFormat="dd/mm/yyyy" />
+        <DatePicker selected={startDate} onChange={date => test(date)} placeholderText='Choose date' maxDate={new Date()} dateFormat="dd/MM/yyyy" />
     );
 };
