@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>When did you give your wind to AXIS?</h1>
+        <h1>When did you give your wing to AXIS?</h1>
         <MyDatePicker sendDateToParent={date => setStartDate(date)} />
         <p>{startDate ? 'I\'ts been neverending ' + Math.round(Math.abs((startDate - new Date()) / oneDay)) + ' days' : null}</p>
       </header>
